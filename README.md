@@ -1,6 +1,4 @@
-## Hi there 👋
-
-# I am Shreyash Damodar
+# Hi there 👋 i am Shreyash Damodar
 
 <!--
 **shreyash1086/shreyash1086** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
