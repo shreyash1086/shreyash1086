@@ -1,8 +1,7 @@
-# Hi there 👋 i am Shreyash Damodar
+# Yo! there 👋 i am Shreyash Damodar
 
 I am a third year Computer Science student.  
-I'm currently learning MERN Stack Development.  
-Practicing DATA STRUCTURE AND ALGORITHM
+I'm currently learning MERN Stack Development.
 <!--
 **shreyash1086/shreyash1086** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
