@@ -1,4 +1,4 @@
-# Yo! there 👋 i am Shreyash Damodar
+# Yo! there 👋 I am Shreyash Damodar
 
 I am a third year Computer Science student.  
 I'm currently learning MERN Stack Development.
